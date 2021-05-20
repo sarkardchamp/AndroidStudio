@@ -1,0 +1,226 @@
+<resources>
+    <string name="app_name">My Kolkata</string>
+    <string name="top_attractions">Top Attractions</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="activities">Activities</string>
+    <string name="explore_kolkata">Explore Kolkata</string>
+    <string name="contact_txt">Contact:</string>
+    <string name="price">Price: </string>
+    <string name="entry_fee">Entry Fee: </string>
+    <string name="direction">direction</string>
+    <string name="address">Address:</string>
+    <string name="timings">Timings:</string>
+    <string name="restaurant_price">Meals for Two:</string>
+
+    <!-- Sample Texts -->
+    <string name="sample_price">1500 – 6500</string>
+    <string name="sample_entry_fee">100</string>
+    <string name="sample_contact">+919604902985</string>
+    <string name="sample_description">Some random text just to occupy space as a placeholder
+        text, just like lorem ipsum dolor sit amet…</string>
+    <string name="sample_timing">10:00 AM to 06:00 PM</string>
+
+    <!-- VISITING PLACES -->
+    <!-- Names -->
+    <string name="alipore_zoo">Alipore Zoo</string>
+    <string name="aquatica">Aquatica</string>
+    <string name="belur_math">Belur Math</string>
+    <string name="birla_planetarium">Birla Planetarium</string>
+    <string name="birla_temple">Birla Temple</string>
+    <string name="botanical_gargen">Botanical Gardens</string>
+    <string name="dakshineshwar_temple">Dakshineshwar Temple</string>
+    <string name="eden_gardens">Eden Gardens</string>
+    <string name="fort_william">Fort William</string>
+    <string name="howrah_bridge">Howrah Bridge</string>
+    <string name="indian_museum">Indian Museum</string>
+    <string name="marble_palace">Marble Palace</string>
+    <string name="mother_house">Mother House</string>
+    <string name="nakhoda_mosque">Nakhoda Mosque</string>
+    <string name="nicco_park">Nicco Park</string>
+    <string name="princep_ghat">Princep Ghat</string>
+    <string name="rabindra_sarovar">Rabindra Sarovar</string>
+    <string name="science_city_kolkata">Science City Kolkata</string>
+    <string name="snow_park">Snow Park</string>
+    <string name="st_paul_cathedral">St. Paul Cathedral</string>
+    <string name="sundarbans">Sundarbans</string>
+    <string name="tagore_house">Tagore\'s House</string>
+    <string name="victoria_memorial">Victoria Memorial</string>
+
+    <!-- Entry Fees -->
+    <string name="alipore_zoo_fee"> ₹ 25</string>
+    <string name="aquatica_fee"> ₹ 450 - ₹ 550</string>
+    <string name="belur_math_fee"> Free entry</string>
+    <string name="birla_temple_fee"> Free entry</string>
+    <string name="birla_planetarium_fee">₹ 80</string>
+    <string name="botanical_gargen_fee"> ₹ 100</string>
+    <string name="dakshineshwar_temple_fee"> Free entry</string>
+    <string name="eden_gardens_fee"> </string>
+    <string name="fort_william_fee"> Free entry</string>
+    <string name="howrah_bridge_fee"> Free entry</string>
+    <string name="indian_museum_fee"> ₹ 500</string>
+    <string name="marble_palace_fee"> Free entry</string>
+    <string name="mother_house_fee"> Free entry</string>
+    <string name="nakhoda_mosque_fee"> Free entry</string>
+    <string name="nicco_park_fee"> ₹ 200 - ₹ 650</string>
+    <string name="princep_ghat_fee"> Free entry</string>
+    <string name="rabindra_sarovar_fee"> Free entry</string>
+    <string name="science_city_kolkata_fee"> ₹ 15 - ₹ 80</string>
+    <string name="snow_park_fee"> ₹ 500</string>
+    <string name="st_paul_cathedral_fee"> Free entry</string>
+    <string name="sundarbans_fee"> ₹ 150</string>
+    <string name="tagore_house_fee"> ₹ 10</string>
+    <string name="victoria_memorial_fee"> ₹ 30</string>
+
+    <!-- Addresses -->
+    <string name="alipore_zoo_address">Belvedere Road, Lake Place, Alipore, Kolkata 700025</string>
+    <string name="aquatica_address">Kochpukur, P.O Hatgachia, Near Rajarhat Township, Kolkata</string>
+    <string name="belur_math_address">Belur, Howrah, West Bengal</string>
+    <string name="birla_planetarium_address">Cathedral Road, near Victoria Memorial, Kolkata</string>
+    <string name="birla_temple_address">29, Ashutosh Chowdhury Avenue, Ballygunge, Opposite Ballygunge Post Office, Kolkata</string>
+    <string name="botanical_gargen_address">Shibpur, Howrah, West Bengal</string>
+    <string name="dakshineshwar_temple_address">Dakshineswar, Kolkata</string>
+    <string name="eden_gardens_address">Maidan, B.B.D. Bagh, Kolkata</string>
+    <string name="fort_william_address">Fort William, Hastings, Kolkata</string>
+    <string name="howrah_bridge_address">Jagannath Ghat, 1, Strand Road, Kolkata</string>
+    <string name="indian_museum_address">27, Jawaharlal Nehru Rd, Colootola, New Market Area, Dharmatala, Taltala, Kolkata</string>
+    <string name="marble_palace_address">46, Muktaram Babu Street, Jorasanko, Kolkata</string>
+    <string name="mother_house_address">54A, Acharya Jagadish Chandra Bose Rd, Ripon Street, Kolkata 700016</string>
+    <string name="nakhoda_mosque_address">92, Rabindra Sarani, Kolkata</string>
+    <string name="nicco_park_address">Jheel Meel, Sector IV, Salt Lake City, Kolkata</string>
+    <string name="princep_ghat_address">Fort William, Hastings, Kolkata</string>
+    <string name="rabindra_sarovar_address">Southern Avenue, Golpark, Tollygunge, Dhakuria, Lake Gardens, Kolkata</string>
+    <string name="science_city_kolkata_address">J.B.S Haldane Avenue, Kolkata</string>
+    <string name="snow_park_address">6, Axis mall, CF Block(Newtown), Action Area 1C, B &amp; C, Newtown, Kolkata</string>
+    <string name="st_paul_cathedral_address">Maidan, Kolkata</string>
+    <string name="sundarbans_address">Dayapur, Gosaba, West Bengal</string>
+    <string name="tagore_house_address">Girish Park, Chittaranjan Avenue, Kolkata</string>
+    <string name="victoria_memorial_address">Victoria Memorial Hall, 1, Queen’s Way, Kolkata</string>
+
+    <!-- HOTELS -->
+    <!-- Names -->
+    <string name="holiday_inn_kolkata_airport">Holiday Inn Kolkata Airport</string>
+    <string name="itc_royal_bengal">ITC Royal Bengal</string>
+    <string name="itc_sonar">ITC Sonar, Kolkata</string>
+    <string name="jw_marriot_hotel_kolkata">JW Marriot Hotel Kolkata</string>
+    <string name="novotel_kolkata_hotel">Novotel Kolkata Hotel</string>
+    <string name="the_oberoi_grand_kolkata">The Oberoi Grand Kolkata</string>
+    <string name="the_rajbari_bawali">The Rajbari Bawali</string>
+    <string name="the_westin_kolkata_rajarhat">The Westin Kolkata Rajarhat</string>
+    <string name="vivanta_kolkata_em_bypass">Vivanta Kolkata, EM Bypass</string>
+
+    <!-- Prices -->
+    <string name="holiday_inn_kolkata_airport_price">from ₹ 2116</string>
+    <string name="itc_royal_bengal_price">from ₹ 5982</string>
+    <string name="itc_sonar_price">from ₹ 4742</string>
+    <string name="jw_marriot_hotel_kolkata_price">from ₹ 7630</string>
+    <string name="novotel_kolkata_hotel_price">from ₹ 2744</string>
+    <string name="the_oberoi_grand_kolkata_price">from ₹ 6120</string>
+    <string name="the_rajbari_bawali_price">from ₹ 4868</string>
+    <string name="the_westin_kolkata_rajarhat_price">from ₹ 2448</string>
+    <string name="vivanta_kolkata_em_bypass_price">from ₹ 3549</string>
+
+    <!-- Contact Details -->
+    <string name="holiday_inn_kolkata_airport_contact">033 6699 6699</string>
+    <string name="itc_royal_bengal_contact">033 4446 4646</string>
+    <string name="itc_sonar_contact">033 2345 4545</string>
+    <string name="jw_marriot_hotel_kolkata_contact">033 6633 0000</string>
+    <string name="novotel_kolkata_hotel_contact">033 4032 3333</string>
+    <string name="the_oberoi_grand_kolkata_contact">033 2249 2323</string>
+    <string name="the_rajbari_bawali_contact">+91 90078 23306</string>
+    <string name="the_westin_kolkata_rajarhat_contact">033 4037 1234</string>
+    <string name="vivanta_kolkata_em_bypass_contact">033 6666 0000</string>
+
+    <!-- Addresses -->
+    <string name="holiday_inn_kolkata_airport_address">Biswa Bangla Sarani, near City Centre 2, Dash Drone, Rajarhat, Kolkata, West Bengal 700136</string>
+    <string name="itc_royal_bengal_address">1, JBS Haldane Ave, Tangra, Kolkata, West Bengal 700046</string>
+    <string name="itc_sonar_address">1, JBS Haldane Ave, Tangra, Kolkata, West Bengal 700046</string>
+    <string name="jw_marriot_hotel_kolkata_address">4A, JBS Haldane Ave, Tangra, Kolkata, West Bengal 700105</string>
+    <string name="novotel_kolkata_hotel_address">Cf 11, CF Block(Newtown), Action Area 1C, Newtown, Kolkata, West Bengal 700156</string>
+    <string name="the_oberoi_grand_kolkata_address">15, Jawaharlal Nehru Rd, New Market Area, Dharmatala, Taltala, Kolkata, West Bengal 700013</string>
+    <string name="the_rajbari_bawali_address">PS, Rajbari, Bawali, Nodakhali, West Bengal 700137</string>
+    <string name="the_westin_kolkata_rajarhat_address">Plot No. Cbd/2, AA II, Newtown, Kolkata, West Bengal 700156</string>
+    <string name="vivanta_kolkata_em_bypass_address">1930, Rajdanga Main Rd, Sector G, East Kolkata Twp, Kolkata, West Bengal 700107</string>
+
+    <!-- RESTAURANTS -->
+    <!-- Names -->
+    <string name="aaheli">Aaheli, Kolkata</string>
+    <string name="alfresco">Alfresco, Kolkata</string>
+    <string name="aminia">Aminia, Kolkata</string>
+    <string name="bohemian_kolkata">Bohemian, Kolkata</string>
+    <string name="flurys_kolkata">Flurys, Kolkata</string>
+    <string name="jam_house">Jam House, Kolkata</string>
+    <string name="la_cucina">La Cucina, Kolkata</string>
+    <string name="mocambo">Mocambo, Kolkata</string>
+    <string name="oudh_1590">Oudh 1590, Kolkata</string>
+    <string name="peter_cat">Peter Cat</string>
+    <string name="rendezvous">Rendezvous, Kolkata</string>
+    <string name="six_ballygunge_place">6 Ballygunge Place, Kolkata</string>
+    <string name="the_corner_courtyard">The Corner Courtyard, Kolkata</string>
+    <string name="zeeshan_kolkata">Zeeshan, Kolkata</string>
+
+    <!-- Addresses -->
+    <string name="aaheli_address">Aaheli, Jawaharlal Nehru Road, New Market Area, Kolkata</string>
+    <string name="alfresco_address">Alfresco, The Lalit, Old Court House Street, Dalhousie Square, Kolkata</string>
+    <string name="aminia_address">Aminia, Kolkata</string>
+    <string name="bohemian_kolkata_address">Bohemian, Old Ballygunge Place 1st Lane, Ballygunge Park, Kolkata</string>
+    <string name="flurys_kolkata_address">Flurys, Kolkata</string>
+    <string name="jam_house_address">Jam House, Acharya Jagadish Chandra Bose Rd, Rowland Row, Ballygunge, Kolkata</string>
+    <string name="la_cucina_address">La Cucina, Salt Lake City, Next to Stadium, Kolkata</string>
+    <string name="mocambo_address">Mocambo, Park Street, Kolkata</string>
+    <string name="oudh_1590_address">Oudh 1590, Deshapriya Park west, Kolkata</string>
+    <string name="peter_cat_address">Peter Cat, Park Street</string>
+    <string name="rendezvous_address">Rendezvous, Monotel, Salt Lake, Kolkata</string>
+    <string name="six_ballygunge_place_address">6 Ballygunge Place, Kolkata</string>
+    <string name="the_corner_courtyard_address">The Corner Courtyard, Sarat Bose Rd, Bhowanipore, Kolkata</string>
+    <string name="zeeshan_kolkata_address">Zeeshan, Syed Amir Ali Ave, Ballygunge, Kolkata</string>
+
+    <!-- prices -->
+    <string name="aaheli_price">Approximately ₹ 2000</string>
+    <string name="alfresco_price">Approximately ₹ 3500</string>
+    <string name="aminia_price">Approximately ₹ 750</string>
+    <string name="bohemian_kolkata_price">Approximately ₹ 1700</string>
+    <string name="flurys_kolkata_price">Approximately ₹ 1350</string>
+    <string name="jam_house_price">Approximately ₹ 950</string>
+    <string name="la_cucina_price">Approximately ₹ 2500</string>
+    <string name="mocambo_price">Approximately ₹ 1100</string>
+    <string name="oudh_1590_price">Approximately ₹ 1200</string>
+    <string name="peter_cat_price">Approximately ₹ 1500</string>
+    <string name="rendezvous_price">Approximately ₹ 1200</string>
+    <string name="six_ballygunge_place_price">Approximately ₹ 1000</string>
+    <string name="the_corner_courtyard_price">Approximately ₹ 1500</string>
+    <string name="zeeshan_kolkata_price">Approximately ₹ 400</string>
+
+    <!-- Timings -->
+    <string name="aaheli_timings">12:30 PM – 3:00 PM and 7:30 PM – 11 PM</string>
+    <string name="alfresco_timings">24 hours on most days with Sunday Brunch being served from 12:30 PM – 4:00 PM</string>
+    <string name="aminia_timings">10:30 AM – 10:30 PM</string>
+    <string name="bohemian_kolkata_timings">12:00 PM – 3:30 PM and 7:00 PM – 11:00 PM</string>
+    <string name="flurys_kolkata_timings">7:30 AM – 10:45 PM</string>
+    <string name="jam_house_timings">12:00 AM – 6:00 AM and 7:00 AM to 12:00 AM</string>
+    <string name="la_cucina_timings">6:00 PM – 11:00 PM and Sunday Brunch from 12:00 PM – 3:30 PM</string>
+    <string name="mocambo_timings">11:00 AM – 11:20 PM</string>
+    <string name="oudh_1590_timings">12:00 PM – 3:30 PM and 6:30 PM – 10:30 PM</string>
+    <string name="peter_cat_timings">11:00 AM – 11:20 PM</string>
+    <string name="rendezvous_timings">11:00 AM – 12:30 PM</string>
+    <string name="six_ballygunge_place_timings">12:30 PM – 3:30 PM and 7:00 PM – 10:30 PM</string>
+    <string name="the_corner_courtyard_timings">8:00 AM – 12:00 AM</string>
+    <string name="zeeshan_kolkata_timings">7:00 AM – 12:00 PM</string>
+
+    <!-- Contact Details -->
+    <string name="aaheli_contact">099030 34456</string>
+    <string name="alfresco_contact">033 4444 7777</string>
+    <string name="aminia_contact">081006 66444</string>
+    <string name="bohemian_kolkata_contact">084201 79177</string>
+    <string name="flurys_kolkata_contact">033 4064 6053</string>
+    <string name="jam_house_contact"> </string>
+    <string name="la_cucina_contact">033 6820 1164</string>
+    <string name="mocambo_contact">033 2229 0095</string>
+    <string name="oudh_1590_contact">076040 35765</string>
+    <string name="peter_cat_contact">033 2229 8841</string>
+    <string name="rendezvous_contact">093311 34543</string>
+    <string name="six_ballygunge_place_contact">033 2460 3922</string>
+    <string name="the_corner_courtyard_contact">099039 99567</string>
+    <string name="zeeshan_kolkata_contact">033 2280 6842</string>
+
+</resources>
